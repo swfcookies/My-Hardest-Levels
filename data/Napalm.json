@@ -1,1 +1,18 @@
-
+{
+    "id": 65561437,
+    "name": "Napalm",
+    "author": "Marwec",
+    "creators": ["Marwec", "Subwoofer", "VictorinoxX", "OpteX", "Dominus", "Vapen", "Sminx", "Eggnog", "Ferdefunky", "Buragoz", "Zalspr", "Firs", "Rebix"]
+    "verifier": "Luqualizer",
+    "verification": "https://www.youtube.com/watch?v=ND--Ai4XVfM",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "swfcookies",
+            "link": "https://www.youtube.com/watch?v=jR_x02UTWvk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

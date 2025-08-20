@@ -1,16 +1,16 @@
 {
-    "id": 68848817,
-    "name": "moment",
-    "author": "lexycat",
-    "creators": ["lexycat", "icedcave"],
-    "verifier": "icedcave",
-    "verification": "https://www.youtube.com/watch?v=bLfKsN4NCNY",
+    "id": 87425029,
+    "name": "niwa",
+    "author": "Teno",
+    "creators": ["Teno", "Mrgm", "Aranda", "Titoalper", "KrazyGFX", "Beclan", "Asuith", "Pedro", "Peng", "Blaze", "Genoxide"],
+    "verifier": "nicor77",
+    "verification": "https://www.youtube.com/watch?v=1tven_pFftA",
     "percentToQualify": 100,
-    "password": "Not Copyable",
+    "password": "Free To Copy",
     "records": [
         {
             "user": "swfcookies",
-            "link": "https://www.youtube.com/watch?v=hwFraepLI08",
+            "link": "https://www.youtube.com/watch?v=LBjcIpUBxeg",
             "percent": 100,
             "hz": 60
         }

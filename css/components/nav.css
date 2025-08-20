@@ -1,5 +1,6 @@
 .nav {
     display: flex;
+    justify-content: center;
     column-gap: 2rem;
 }
 .nav .nav__tab {

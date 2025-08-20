@@ -1,1 +1,18 @@
-
+{
+    "id": 48765988,
+    "name": "Polish Alphabet",
+    "author": "AxolotlCamellia",
+    "creators": ["BlazeNafide!", "Ezel142", "ViralDl", "Ylliee", "MichciachGD", "Texic", "Supris", "RicoMeister", "Zgredek", "Anime Animator", "Lazyer"],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=sM69wUPN5yc",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "swfcookies",
+            "link": "https://www.youtube.com/watch?v=ktnpKTn6RfM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -12,7 +12,6 @@
 }
 .nav .nav__tab.router-link-active {
     border-color: var(--color-on-primary);
-    justify-content: center;
 }
 .nav .nav__tab:hover {
     border-color: var(--color-on-primary);
